@@ -9,6 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Matrix
   - Hamming
   - Raindrops
+  - Leap
+  - Pangram
+  - Isogram
 
 ### MEDIUM
   - Twelve Days
