@@ -12,6 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Leap
   - Pangram
   - Isogram
+  - Anagram
+  - Bob
+  - Difference of Squares
+  - Series
 
 ### MEDIUM
   - Twelve Days
