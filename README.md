@@ -16,6 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Bob
   - Difference of Squares
   - Series
+  - Hangman
 
 ### MEDIUM
   - Twelve Days
