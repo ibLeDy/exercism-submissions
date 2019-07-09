@@ -1,3 +1,5 @@
+import string
+
 def word_count(phrase):
     result = {}
     word = ""
@@ -5,6 +7,8 @@ def word_count(phrase):
     for char in phrase.lower():
         if char.isalnum():
             word += char
+        # elif char in string.punctuation:
+            # word += char
         else:
             if len(word):
                 if result.get(word):
@@ -19,3 +23,15 @@ def word_count(phrase):
         result.update({word: 1})
         
     return result
+    # print(result)
+
+# def word_count(phrase):
+#     result = {}
+#     word = ""
+
+#     for char in phrase:
+#         pass
+#         # print(char)
+
+# phrase = "Joe can't tell between 'large' and large."
+# test = word_count(phrase)
