@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Series
   - Hangman
   - Armstrong Numbers
+  - Sieve
 
 ### MEDIUM
   - Twelve Days
