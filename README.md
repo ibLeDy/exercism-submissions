@@ -17,6 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Difference of Squares
   - Series
   - Hangman
+  - Armstrong Numbers
 
 ### MEDIUM
   - Twelve Days
