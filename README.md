@@ -19,6 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Hangman
   - Armstrong Numbers
   - Sieve
+  - Sum of Multiples
 
 ### MEDIUM
   - Twelve Days
