@@ -1,25 +1,25 @@
 # EASY
-allergies
-kindergarten-garden
+allergies,
+kindergarten-garden,
 meetup
 
-collatz-conjecture
-error-handling
-grains
-isbn-verifier
-matching-brackets
-palindrome-products
-perfect-numbers
-phone-number
-prime-factors
-protein-translation
-pythagorean-triplet
-robot-name
-saddle-points
-simple-cypher
-tree-building
+collatz-conjecture,
+error-handling,
+grains,
+isbn-verifier,
+matching-brackets,
+palindrome-products,
+perfect-numbers,
+phone-number,
+prime-factors,
+protein-translation,
+pythagorean-triplet,
+robot-name,
+saddle-points,
+simple-cypher,
+tree-building,
 triangle
 
 # MEDIUM
-complex-numbers
+complex-numbers,
 go-counting
