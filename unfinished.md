@@ -3,8 +3,6 @@ allergies
 kindergarten-garden
 meetup
 
-word count
-
 collatz-conjecture
 error-handling
 grains
