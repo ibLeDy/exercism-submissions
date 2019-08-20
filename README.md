@@ -8,6 +8,8 @@ you would not find that many completed exercises in this repo.
 My exercism [profile](https://exercism.io/profiles/ibLeDy)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/exercisms-python)
+![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)
+![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)
 
 ### Exercisms:
 
