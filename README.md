@@ -7,6 +7,8 @@ you would not find that many completed exercises in this repo.
 
 My exercism [profile](https://exercism.io/profiles/ibLeDy)
 
+.. image:: https://img.shields.io/github/languages/top/ibLeDy/exercisms-python   :alt: GitHub top language
+
 ### Exercisms:
 
   - [Hello World](https://github.com/ibLeDy/exercisms-python/tree/master/completed/hello-world)
