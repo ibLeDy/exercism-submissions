@@ -1,8 +1,13 @@
 # COMPLETED EXERCISM'S EXERCISMS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex sit amet tellus sodales fermentum vitae at tellus. Curabitur pretium scelerisque laoreet. Vestibulum rhoncus turpis ante, in viverra nibh pellentesque in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I began practicing in this [website](https://exercism.io) around March 2019, and
+it sparked my curiosity about this kind of wepages/learning methods. That's why
+you would not find that many completed exercises in this repo.
 
-### EASY
+My exercism [profile](https://exercism.io/profiles/ibLeDy)
+
+### Python3:
+
   - Hello World
   - Two Fer
   - High Scores
@@ -19,7 +24,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet ex s
   - Armstrong Numbers
   - Sieve
   - Sum of Multiples
-
-### MEDIUM
   - Twelve Days
   - Hangman
