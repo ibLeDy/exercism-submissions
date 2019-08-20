@@ -1,4 +1,4 @@
-COMPLETED EXERCISM'S EXERCISMS
+# COMPLETED EXERCISM'S EXERCISMS
 
 I began practicing in this [website](https://exercism.io) around March 2019, and
 it sparked my curiosity about this kind of wepages/leacompleted exercises in this repo.
