@@ -1,7 +1,8 @@
 # COMPLETED EXERCISM'S EXERCISMS
 
 I began practicing in this [website](https://exercism.io) around March 2019, and
-it sparked my curiosity about this kind of wepages/leacompleted exercises in this repo.
+it sparked my curiosity about this kind of wepages/learning methods. That's why
+you would not find that many completed exercises in this repo.
 [Check the original exercises!](https://github.com/exercism/python)
 
 My exercism [profile](https://exercism.io/profiles/ibLeDy)
