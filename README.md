@@ -2,7 +2,7 @@
 
 I began practicing in this [website](https://exercism.io) around March 2019, and
 it sparked my curiosity about this kind of wepages/learning methods.
-This is my exercism [profile](https://exercism.io/profiles/ibLeDy). [Check the original exercises!](https://github.com/exercism/python)
+My exercism [profile](https://exercism.io/profiles/ibLeDy). Check out the [original exercisms](https://github.com/exercism/python)
 
 [![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/search?l=python)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
