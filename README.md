@@ -29,6 +29,7 @@ I began practicing in this [website](https://exercism.io) around March 2019, che
   - [Hangman](python/hangman)
   - [Protein Translation](python/protein-translation)
   - [Perfect Numbers](python/perfect-numbers)
+  - [Phone Number](python/phone-number)
 
 ## Note:
 
