@@ -32,6 +32,7 @@ My exercism [profile](https://exercism.io/profiles/ibLeDy)
   - [Twelve Days](completed/twelve-days)
   - [Hangman](completed/hangman)
   - [Protein Translation](completed/protein-translation)
+  - [Perfect Numbers](completed/perfect-numbers)
 
 ## Note:
 
