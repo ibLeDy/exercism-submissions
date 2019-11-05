@@ -10,7 +10,7 @@ My exercism [profile](https://exercism.io/profiles/ibLeDy)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
 
-### Exercisms:
+### Python Track:
 
   - [Hello World](completed/hello-world)
   - [Two Fer](completed/two-fer)
@@ -30,6 +30,7 @@ My exercism [profile](https://exercism.io/profiles/ibLeDy)
   - [Sum of Multiples](completed/sum-of-multiples)
   - [Twelve Days](completed/twelve-days)
   - [Hangman](completed/hangman)
+  - [Protein Translation](completed/protein-translation)
 
 ## Note:
 
