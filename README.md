@@ -7,9 +7,10 @@ I began practicing in this [website](https://exercism.io) around March 2019, che
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
 
-### Python Track:
+## Python Track:
 
-  - [Hello World](python/hello-world)
+### - Easy:
+
   - [Two Fer](python/two-fer)
   - [High Scores](python/high-scores)
   - [Matrix](python/matrix)
@@ -26,11 +27,15 @@ I began practicing in this [website](https://exercism.io) around March 2019, che
   - [Sieve](python/sieve)
   - [Sum of Multiples](python/sum-of-multiples)
   - [Twelve Days](python/twelve-days)
-  - [Hangman](python/hangman)
   - [Protein Translation](python/protein-translation)
   - [Perfect Numbers](python/perfect-numbers)
   - [Phone Number](python/phone-number)
   - [ISBN Verifier](python/isbn-verifier)
+  - [Robot Name](python/robot-name)
+
+### - Medium:
+
+  - [Hangman](python/hangman)
 
 ## Note:
 
