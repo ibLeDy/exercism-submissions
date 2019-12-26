@@ -32,6 +32,7 @@ I began practicing in this [website](https://exercism.io) around March 2019, che
   - [Phone Number](python/phone-number)
   - [ISBN Verifier](python/isbn-verifier)
   - [Robot Name](python/robot-name)
+  - [Scrabble Score](python/scrabble-score)
 
 ### - Medium:
 
