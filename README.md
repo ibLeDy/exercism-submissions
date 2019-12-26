@@ -33,6 +33,7 @@ I began practicing in this [website](https://exercism.io) around March 2019, che
   - [ISBN Verifier](python/isbn-verifier)
   - [Robot Name](python/robot-name)
   - [Scrabble Score](python/scrabble-score)
+  - [Collatz Conjecture](python/collatz-conjecture)
 
 ### - Medium:
 
