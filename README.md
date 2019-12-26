@@ -7,9 +7,9 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
 
-## [Python Track](https://exercism.io/tracks/python):
+## [Python Track](https://exercism.io/tracks/python)
 
-### - Easy:
+- Easy:
 
   - [Two Fer](python/two-fer)
   - [High Scores](python/high-scores)
@@ -35,11 +35,11 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Scrabble Score](python/scrabble-score)
   - [Collatz Conjecture](python/collatz-conjecture)
 
-### - Medium:
+- Medium:
 
   - [Hangman](python/hangman)
 
-## Note:
+## Note
 
 [exercism.io owns all copyrights to the README files of all exercises.](https://github.com/exercism/python/blob/master/LICENSE)
 
