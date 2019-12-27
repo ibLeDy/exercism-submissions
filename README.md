@@ -34,6 +34,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Robot Name](python/robot-name)
   - [Scrabble Score](python/scrabble-score)
   - [Collatz Conjecture](python/collatz-conjecture)
+  - [Simple Cipher](python/simple-cipher)
 
 - Medium:
 
