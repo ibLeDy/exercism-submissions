@@ -35,6 +35,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Scrabble Score](python/scrabble-score)
   - [Collatz Conjecture](python/collatz-conjecture)
   - [Simple Cipher](python/simple-cipher)
+  - [Error Handling](python/error-handling)
 
 - Medium:
 
