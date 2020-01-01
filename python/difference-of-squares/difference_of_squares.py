@@ -1,8 +1,8 @@
 def square_of_sum(number):
-    square = 0    
+    square = 0
     for i in range(number + 1):
         square += i
-    
+
     square = square ** 2
     return square
 

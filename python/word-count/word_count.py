@@ -1,5 +1,6 @@
 import string
 
+
 def word_count(phrase):
     temp = []
     result = {}
@@ -10,7 +11,7 @@ def word_count(phrase):
 
     for under in phrase.split("_"):
         underscore_temp.append(under.strip(string.punctuation))
-    
+
     for comma in underscore_temp:
         try:
             a, b = comma.split(",")
@@ -22,7 +23,7 @@ def word_count(phrase):
                 underscore_result[b] = 1
             else:
                 underscore_result[b] += 1
-        except:
+        except Exception:
             if comma not in underscore_result:
                 underscore_result[comma] = 1
             else:
@@ -40,7 +41,7 @@ def word_count(phrase):
 
     for word in phrase.split():
         temp.append(word.lower().strip(string.punctuation))
-    
+
     for t in temp:
         if t not in result.keys():
             result[t] = 1

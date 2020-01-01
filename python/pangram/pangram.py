@@ -5,6 +5,7 @@ punctuation = string.punctuation
 digits = string.digits
 space = string.whitespace
 
+
 def make_dict():
     letter_count = {}
 
@@ -12,6 +13,7 @@ def make_dict():
         letter_count[letter] = 0
 
     return letter_count
+
 
 def is_pangram(sentence):
     foo = make_dict()

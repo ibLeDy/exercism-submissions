@@ -10,7 +10,7 @@ def sum_of_multiples(limit, multiples):
 
     temp = set(temp)
     result = 0
-    
+
     for num in temp:
         result += num
 
