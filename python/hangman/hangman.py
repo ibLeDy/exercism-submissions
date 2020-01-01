@@ -24,7 +24,7 @@ class Hangman(object):
         else:
             self.guesses[char] = True
             indices = [i for i, letter in enumerate(self.word) if letter == char]
-            
+
             for idx in indices:
                 self.masked_word[idx] = char
 

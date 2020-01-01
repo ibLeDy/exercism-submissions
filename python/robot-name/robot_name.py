@@ -3,6 +3,7 @@ import random
 letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "1234567890"
 
+
 class Robot(object):
     def __init__(self):
         self.name = self.create_name()

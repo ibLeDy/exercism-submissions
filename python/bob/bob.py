@@ -15,7 +15,6 @@ def response(text):
     elif text[1:].islower():
         return "Whatever."
     elif not text.isalpha():
-        result = None
         for word in splitted:
             if word.isalnum():
                 return "Whatever."

@@ -4,6 +4,7 @@ def check_number(number):
     elif number == 0:
         raise ValueError("0 is not a positive integer")
 
+
 def steps(number):
     check_number(number)
     steps = 0
