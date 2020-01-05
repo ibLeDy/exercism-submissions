@@ -25,13 +25,3 @@ repos:
     rev: v1.1.0
     hooks:
     -   id: python-safety-dependencies-check
-
--   repo: local
-    hooks:
-    -   id: pytest
-        name: pytest
-        entry: python3 -m pytest python
-        language: system
-        pass_filenames: false
-        always_run: false
-        args: ["-vvW", "ignore::DeprecationWarning"]
