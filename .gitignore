@@ -1,3 +1,4 @@
 __pycache__
 .exercism
 .pytest_cache
+.mypy_cache

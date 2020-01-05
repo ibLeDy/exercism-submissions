@@ -1,0 +1,37 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.4.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-added-large-files
+    -   id: check-ast
+    -   id: check-case-conflict
+    -   id: check-docstring-first
+    -   id: check-merge-conflict
+    -   id: debug-statements
+    -   id: detect-private-key
+    -   id: mixed-line-ending
+    -   id: check-json
+    -   id: flake8
+        args: ["--count", "--ignore=E501", --exclude=.venv", "--statistics"]
+
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v0.761
+    hooks:
+    -   id: mypy
+
+-   repo: https://github.com/Lucas-C/pre-commit-hooks-safety
+    rev: v1.1.0
+    hooks:
+    -   id: python-safety-dependencies-check
+
+-   repo: local
+    hooks:
+    -   id: pytest
+        name: pytest
+        entry: python3 -m pytest python
+        language: system
+        pass_filenames: false
+        always_run: true
+        args: ["-vvW", "ignore::DeprecationWarning"]
