@@ -18,7 +18,7 @@ def factors(value):
             num = num / div
             count += 1
 
-        prime_factors.extend([div]* count)
+        prime_factors.extend([div] * count)
         div = get_first_divisor(div + 1, value)
 
     return prime_factors

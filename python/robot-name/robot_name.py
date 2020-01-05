@@ -11,7 +11,6 @@ class Robot(object):
     def reset(self):
         random.seed("Is this random?")
         self.name = self.create_name()
-        return self.name
 
     def create_name(self):
         name = [random.choice(letters),

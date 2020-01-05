@@ -33,5 +33,5 @@ repos:
         entry: python3 -m pytest python
         language: system
         pass_filenames: false
-        always_run: true
+        always_run: false
         args: ["-vvW", "ignore::DeprecationWarning"]
