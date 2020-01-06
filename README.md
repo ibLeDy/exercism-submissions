@@ -39,6 +39,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Simple Cipher](python/simple-cipher/simple_cipher.py) [![logo]](python/simple-cipher)
   - [Error Handling](python/error-handling/error_handling.py) [![logo]](python/error-handling)
   - [Prime Factors](python/prime-factors/prime_factors.py) [![logo]](python/prime-factors)
+  - [Kindergarten Garden](python/kindergarten-garden/kindergarten_garden.py) [![logo]](python/kindergarten-garden)
 
 - Medium:
 
