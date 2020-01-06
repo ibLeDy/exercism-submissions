@@ -40,6 +40,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Error Handling](python/error-handling/error_handling.py) [![logo]](python/error-handling)
   - [Prime Factors](python/prime-factors/prime_factors.py) [![logo]](python/prime-factors)
   - [Kindergarten Garden](python/kindergarten-garden/kindergarten_garden.py) [![logo]](python/kindergarten-garden)
+  - [Acronym](python/acronym/acronym.py) [![logo]](python/acronym)
 
 - Medium:
 
