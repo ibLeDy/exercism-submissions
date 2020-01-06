@@ -1,4 +1,4 @@
-from string import ascii_uppercase as letters
+from string import ascii_uppercase
 
 
 def abbreviate(words):
@@ -8,7 +8,7 @@ def abbreviate(words):
     for word in splitted:
         for letter in word:
             letter = letter.upper()
-            if letter in letters:
+            if letter in ascii_uppercase:
                 acronym.append(letter)
                 break
 
