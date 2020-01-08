@@ -41,6 +41,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Prime Factors](python/prime-factors/prime_factors.py) [![logo]](python/prime-factors)
   - [Kindergarten Garden](python/kindergarten-garden/kindergarten_garden.py) [![logo]](python/kindergarten-garden)
   - [Acronym](python/acronym/acronym.py) [![logo]](python/acronym)
+  - [Grade School](python/grade-school/grade_school.py) [![logo]](python/grade-school)
 
 - Medium:
 
