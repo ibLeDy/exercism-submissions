@@ -42,6 +42,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Kindergarten Garden](python/kindergarten-garden/kindergarten_garden.py) [![logo]](python/kindergarten-garden)
   - [Acronym](python/acronym/acronym.py) [![logo]](python/acronym)
   - [Grade School](python/grade-school/grade_school.py) [![logo]](python/grade-school)
+  - [Luhn](python/luhn/luhn.py) [![logo]](python/luhn)
 
 - Medium:
 
