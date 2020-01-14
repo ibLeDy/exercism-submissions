@@ -43,6 +43,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
   - [Acronym](python/acronym/acronym.py) [![logo]](python/acronym)
   - [Grade School](python/grade-school/grade_school.py) [![logo]](python/grade-school)
   - [Luhn](python/luhn/luhn.py) [![logo]](python/luhn)
+  - [Beer Song](python/beer-song/beer_song.py) [![logo]](python/beer-song)
 
 - Medium:
 
