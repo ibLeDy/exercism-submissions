@@ -3,8 +3,7 @@
 I began using [exercism.io](https://exercism.io) around March 2019, this is
 my [profile](https://exercism.io/profiles/ibLeDy).
 
-[![flake8](https://github.com/ibLeDy/exercism-exercisms/workflows/flake8/badge.svg)](https://actions-badge.atrox.dev/ibLeDy/exercism-exercisms/goto)
-[![pytest](https://github.com/ibLeDy/exercism-exercisms/workflows/pytest/badge.svg)](https://actions-badge.atrox.dev/ibLeDy/exercism-exercisms/goto)
+[![CI](https://github.com/ibLeDy/exercism-exercisms/workflows/CI/badge.svg)](https://actions-badge.atrox.dev/ibLeDy/exercism-exercisms/goto)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
 [![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
