@@ -3,7 +3,7 @@
 I began using [exercism.io](https://exercism.io) around March 2019, this is
 my [profile](https://exercism.io/profiles/ibLeDy).
 
-[![CI](https://github.com/ibLeDy/exercism-exercisms/workflows/CI/badge.svg)](https://actions-badge.atrox.dev/ibLeDy/exercism-exercisms/goto)
+[![ci](https://github.com/ibLeDy/exercism-exercisms/workflows/CI/badge.svg)](https://actions-badge.atrox.dev/ibLeDy/exercism-exercisms/goto)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
 [![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
@@ -43,11 +43,10 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Luhn](python/luhn/luhn.py) [![logo]](python/luhn)
 - [Beer Song](python/beer-song/beer_song.py) [![logo]](python/beer-song)
 - [Clock](python/clock/clock.py) [![logo]](python/clock)
+- [Robot Simulator](python/robot-simulator/robot_simulator.py) [![logo]](python/robot-simulator)
 
-## Note
+### Note
 
 [exercism.io owns all copyrights to the README files of all exercises.](https://github.com/exercism/python/blob/master/LICENSE)
-
-I have chosen to keep them for context.
 
 [logo]: https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/12828268421557901896-16.png "Docs Logo"
