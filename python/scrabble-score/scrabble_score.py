@@ -29,7 +29,7 @@ def score(word):
     }
 
     points = 0
-    for l in word:
-        points += values[l.upper()]
+    for char in word:
+        points += values[char.upper()]
 
     return points
