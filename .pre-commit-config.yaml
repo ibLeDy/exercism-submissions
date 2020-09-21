@@ -14,7 +14,6 @@ repos:
     -   id: check-yaml
     -   id: debug-statements
     -   id: detect-private-key
-    # -   id: double-quote-string-fixer
     -   id: end-of-file-fixer
     -   id: mixed-line-ending
     -   id: name-tests-test
@@ -40,12 +39,3 @@ repos:
     hooks:
     -   id: flake8
         args: [--ignore=E501]
--   repo: local
-    hooks:
-    -   id: pytest
-        name: pytest
-        entry: pytest ./python
-        language: system
-        args: [-vv]
-        pass_filenames: false
-        always_run: true
