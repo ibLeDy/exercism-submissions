@@ -20,6 +20,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Collatz Conjecture](python/collatz-conjecture)
 - [Difference of Squares](python/difference-of-squares)
 - [Error Handling](python/error-handling)
+- [ETL](python/etl)
 - [Gigasecond](python/gigasecond)
 - [Grade School](python/grade-school)
 - [Hamming](python/hamming)
