@@ -13,6 +13,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Acronym](python/acronym)
 - [Anagram](python/anagram)
 - [Armstrong Numbers](python/armstrong-numbers)
+- [Atbash Cipher](python/atbash-cipher)
 - [Beer Song](python/beer-song)
 - [Bob](python/bob)
 - [Clock](python/clock)
