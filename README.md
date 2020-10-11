@@ -41,6 +41,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [RNA Transcription](python/rna-transcription)
 - [Robot Name](python/robot-name)
 - [Robot Simulator](python/robot-simulator)
+- [Rotational Cipher](python/rotational-cipher)
 - [Scrabble Score](python/scrabble-score)
 - [Series](python/series)
 - [Sieve](python/sieve)
