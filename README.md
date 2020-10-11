@@ -19,6 +19,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Collatz Conjecture](python/collatz-conjecture/collatz_conjecture.py) [![logo]](python/collatz-conjecture)
 - [Difference of Squares](python/difference-of-squares/difference_of_squares.py) [![logo]](python/difference-of-squares)
 - [Error Handling](python/error-handling/error_handling.py) [![logo]](python/error-handling)
+- [Gigasecond](python/gigasecond/gigasecond.py) [![logo]](python/gigasecond)
 - [Grade School](python/grade-school/grade_school.py) [![logo]](python/grade-school)
 - [Hamming](python/hamming/hamming.py) [![logo]](python/hamming)
 - [Hangman](python/hangman/hangman.py) [![logo]](python/hangman)
