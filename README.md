@@ -22,6 +22,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Grade School](python/grade-school/grade_school.py) [![logo]](python/grade-school)
 - [Hamming](python/hamming/hamming.py) [![logo]](python/hamming)
 - [Hangman](python/hangman/hangman.py) [![logo]](python/hangman)
+- [Hello World](python/hello-world/hello_world.py) [![logo]](python/hello-world)
 - [High Scores](python/high-scores/high_scores.py) [![logo]](python/high-scores)
 - [ISBN Verifier](python/isbn-verifier/isbn_verifier.py) [![logo]](python/isbn-verifier)
 - [Isogram](python/isogram/isogram.py) [![logo]](python/isogram)
@@ -35,6 +36,8 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Prime Factors](python/prime-factors/prime_factors.py) [![logo]](python/prime-factors)
 - [Protein Translation](python/protein-translation/protein_translation.py) [![logo]](python/protein-translation)
 - [Raindrops](python/raindrops/raindrops.py) [![logo]](python/raindrops)
+- [Reverse String](python/reverse-string/reverse_string.py) [![logo]](python/reverse-string)
+- [RNA Transcription](python/rna-transcription/rna_transcription.py) [![logo]](python/rna-transcription)
 - [Robot Name](python/robot-name/robot_name.py) [![logo]](python/robot-name)
 - [Robot Simulator](python/robot-simulator/robot_simulator.py) [![logo]](python/robot-simulator)
 - [Scrabble Score](python/scrabble-score/scrabble_score.py) [![logo]](python/scrabble-score)
@@ -44,6 +47,7 @@ my [profile](https://exercism.io/profiles/ibLeDy).
 - [Sum of Multiples](python/sum-of-multiples/sum_of_multiples.py) [![logo]](python/sum-of-multiples)
 - [Twelve Days](python/twelve-days/twelve_days.py) [![logo]](python/twelve-days)
 - [Two Fer](python/two-fer/two_fer.py) [![logo]](python/two-fer)
+- [Word Count](python/word-count/word_count.py) [![logo]](python/word-count)
 
 ### Note
 
