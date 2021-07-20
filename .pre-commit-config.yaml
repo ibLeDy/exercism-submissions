@@ -3,7 +3,7 @@ ci:
   autoupdate_schedule: monthly
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.4.0
+    rev: v4.0.1
     hooks:
       - id: check-added-large-files
       - id: check-ast
@@ -33,8 +33,8 @@ repos:
       - id: markdownlint
         exclude: "^(.*)/"
         args: ["--rules=~MD013"]
-  - repo: https://gitlab.com/pycqa/flake8
-    rev: 3.9.1
+  - repo: https://github.com/PyCQA/flake8
+    rev: 3.9.2
     hooks:
       - id: flake8
         args: [--ignore=E501]
